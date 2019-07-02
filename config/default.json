@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://admin:B00ne55428!@ds245927.mlab.com:45927/job-hunter",
+    "jwtSecret": "mysecrettoken"
+}
